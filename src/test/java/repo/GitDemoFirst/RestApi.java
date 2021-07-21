@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class AppTest {
+public class RestApi {
     
   @Test
   public void postJira() {
@@ -25,4 +25,17 @@ public class AppTest {
   {
 	  System.out.println("deleteTwitter");
   }
+  
+  @Test
+  public void deleteTwitter2()
+  {
+	  System.out.println("deleteTwitter2");
+  }
+  
+  @Test
+  public void deleteTwitter3()
+  {
+	  System.out.println("deleteTwitter3");
+  }
+  
 }
