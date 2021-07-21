@@ -1,8 +1,6 @@
 package repo.GitDemoFirst;
 
-import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
+import org.testng.annotations.Test;
 
 public class AppTest {
     
